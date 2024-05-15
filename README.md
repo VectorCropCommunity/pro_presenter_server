@@ -7,7 +7,7 @@ This guide provides instructions on downloading the Pro Presenter Server `.dmg` 
 
 <!-- link here -->
 
-1. **Download the.dmg File**: [download](./pro_presenter_server.dmg)
+1. **Download the.dmg File**: [pro_presenter_server.dmg](https://github.com/VectorCropCommunity/pro_presenter_server/blob/main/pro%20presenter%20server.dmg)
 
 2. **Place the.dmg File on GitHub**: Once downloaded, navigate to the root directory of your GitHub repository. Here, upload the `.dmg` file. You can do this by dragging and dropping the file into the repository folder on your local machine, then committing and pushing the changes to GitHub.
 
