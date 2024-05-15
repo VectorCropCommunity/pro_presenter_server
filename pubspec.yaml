@@ -11,6 +11,8 @@ dependencies:
   nsd: 3.0.0
   nsd_macos: 2.0.0
   device_info_plus: 10.1.0
+  window_manager: 0.3.8
+  icons_launcher: 2.1.7
   flutter: 
     sdk: flutter
 
@@ -20,5 +22,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter: 
+  assets: 
+    - assets/
+    - assets/images/
   uses-material-design: true
 
