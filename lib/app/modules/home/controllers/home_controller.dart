@@ -1,4 +1,5 @@
 import 'package:get/get.dart';
+import 'package:pro_presenter_server/app/controllers/common_controller.dart';
 
 class HomeController extends GetxController {
   //TODO: Implement HomeController
@@ -6,6 +7,7 @@ class HomeController extends GetxController {
   final count = 0.obs;
   @override
   void onInit() {
+    Get.put(CommonController());
     super.onInit();
   }
 

@@ -8,6 +8,9 @@ environment:
 dependencies: 
   cupertino_icons: ^1.0.6
   get: 4.6.6
+  nsd: 3.0.0
+  nsd_macos: 2.0.0
+  device_info_plus: 10.1.0
   flutter: 
     sdk: flutter
 
