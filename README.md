@@ -18,7 +18,7 @@ Welcome to the Pro Presenter app. This Privacy Policy explains how we collect, u
 ### Information We Collect
 
 #### Access Location
-The Pro Presenter app accesses your location to find nearby devices through mDNS (Multicast DNS). This is used to enhance the app's functionality by allowing seamless connectivity and interaction with other devices in close proximity. Your location data is not stored or shared with any third parties.
+The Pro Presenter app accesses your location to find nearby devices through mDNS (Multicast DNS). This is used to enhance the app's functionality by allowing seamless connectivity and interaction with other devices in close proximity. Your location data is not stored or shared with any third parties. “This app collects location data to enable {Multicast DNS}, when the app is in use.”
 
 #### User Data
 We do not capture, store, or share any personal user data. The Pro Presenter app operates without collecting information such as your name, email address, or any other personal identifiers. Your privacy is our top priority.
